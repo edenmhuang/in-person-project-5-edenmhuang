@@ -295,7 +295,7 @@ a:hover {
 }
 
 /* Projects Section - TO BE ENHANCED WITH GRID */
-/* Filter Buttons - Week 7 Addition */
+/* Filter Buttons - Week 6 Addition */
 .filter-buttons {
     display: flex;
     justify-content: center;
@@ -482,7 +482,7 @@ a:hover {
     resize: vertical;
 }
 
-/* Form Validation Styles - Week 7 Addition */
+/* Form Validation Styles - Week 6 Addition */
 .error-message {
     color: #dc2626;
     font-size: 0.875rem;
