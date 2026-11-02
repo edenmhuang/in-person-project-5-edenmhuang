@@ -227,7 +227,7 @@ function App() {
       {/* Navigation Bar */}
       <nav id="navbar">
         <div className="nav-brand">
-          <span>Alex Johnson</span>
+          <span>Eden Huang</span>
         </div>
         <ul className="nav-menu">
           <li><a href="#home" className="nav-link" onClick={handleNavClick}>Home</a></li>
@@ -247,7 +247,7 @@ function App() {
       {/* Hero Section */}
       <section id="home" className="hero">
         <div className="hero-content">
-          <h1 className="hero-title">Alex Johnson</h1>
+          <h1 className="hero-title">Eden Huang</h1>
           <p className="hero-subtitle">Frontend Developer &amp; UI Designer</p>
           <p className="hero-tagline">Creating beautiful, responsive web experiences with modern technologies</p>
           <div className="hero-buttons">
@@ -271,11 +271,11 @@ function App() {
                 </div>
                 <div className="detail-item">
                   <span className="detail-icon">✉️</span>
-                  <a href="mailto:alex@example.com">alex@example.com</a>
+                  <a href="mailto:edenhuangg@berkeley.edu">edenhuangg@berkeley.edu</a>
                 </div>
                 <div className="detail-item">
                   <span className="detail-icon">📱</span>
-                  <span>(555) 123-4567</span>
+                  <span>(415) 123-4567</span>
                 </div>
               </div>
             </div>
@@ -389,7 +389,7 @@ function App() {
 
             <div className="project-card featured" data-category="fullstack">
               <div className="project-image">
-                <img src="https://via.placeholder.com/400x250/4f46e5/ffffff?text=E-Commerce+App" alt="E-Commerce Platform" />
+                <img src="https://picsum.photos/600/400?random=1" alt="E-Commerce Platform" />
                 <div className="project-overlay">
                   <div className="project-links">
                     <a href="#" className="project-link">
@@ -418,7 +418,7 @@ function App() {
 
             <div className="project-card" data-category="frontend">
               <div className="project-image">
-                <img src="https://via.placeholder.com/400x250/059669/ffffff?text=Weather+App" alt="Weather Dashboard" />
+                <img src="https://picsum.photos/600/400?random=2" alt="Weather Dashboard" />
                 <div className="project-overlay">
                   <div className="project-links">
                     <a href="#" className="project-link">
@@ -446,7 +446,7 @@ function App() {
 
             <div className="project-card" data-category="webapp">
               <div className="project-image">
-                <img src="https://via.placeholder.com/400x250/dc2626/ffffff?text=Task+Manager" alt="Task Management App" />
+                <img src="https://picsum.photos/600/400?random=3" alt="Task Management App" />
                 <div className="project-overlay">
                   <div className="project-links">
                     <a href="#" className="project-link">
@@ -474,7 +474,7 @@ function App() {
 
             <div className="project-card" data-category="design">
               <div className="project-image">
-                <img src="https://via.placeholder.com/400x250/7c3aed/ffffff?text=Portfolio+Site" alt="Portfolio Website" />
+                <img src="https://picsum.photos/600/400?random=4" alt="Portfolio Website" />
                 <div className="project-overlay">
                   <div className="project-links">
                     <a href="#" className="project-link">
@@ -545,10 +545,10 @@ function App() {
       <footer className="footer">
         <div className="container">
           <div className="footer-content">
-            <p>&copy; 2024 Alex Johnson. All rights reserved.</p>
+            <p>&copy; 2024 Eden Huang. All rights reserved.</p>
             <div className="social-links">
-              <a href="#" className="social-link">GitHub</a>
-              <a href="#" className="social-link">LinkedIn</a>
+              <a href="https://github.com/edenmhuang" className="social-link" target="_blank">GitHub</a>
+              <a href="https://www.linkedin.com/in/edenmhuang/" className="social-link" target="_blank">LinkedIn</a>
               <a href="#" className="social-link">Twitter</a>
               <a href="#" className="social-link">Dribbble</a>
             </div>
